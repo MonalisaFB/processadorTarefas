@@ -1,4 +1,5 @@
-﻿using ProcessadorTarefas.Entidades;
+﻿
+using ProcessadorTarefas.Entidades;
 
 namespace ProcessadorTarefas.Servicos
 {
